@@ -30,6 +30,8 @@ Fuentes para este trabajo:
 
 * Capitulo de comunidades del libro de Greg: https://teachtogether.tech/es/index.html#s:community
 
+* Gobernanza de nodeJs: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
+
 
 
 
