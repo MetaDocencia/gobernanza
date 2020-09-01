@@ -24,6 +24,12 @@ Documentos que detallan como es la gobernanza de MetaDocencia
 
 Fuentes para este trabajo:
 
+* Muy buena esta serie de 3 post con ejemplos concretos de formas de tomar decisiones y los problemas que traen algunas maneras: http://aturon.github.io/tech/2018/05/25/listening-part-1/
+
+* Post de Greg sobre una propuesta de Gobernanza: https://third-bit.com/2020/08/31/governance.html
+
+* Capitulo de comunidades del libro de Greg: https://teachtogether.tech/es/index.html#s:community
+
 
 
 
