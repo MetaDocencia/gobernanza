@@ -36,6 +36,8 @@ Fuentes para este trabajo:
 
 * The Carpentries Governance: https://docs.carpentries.org/topic_folders/governance/index.html
 
+* Ejemplo de minutas de Carpentries: https://github.com/carpentries/executive-council-info/blob/master/minutes/2020/EC-minutes-2020-01-13.md
+
 
 
 
