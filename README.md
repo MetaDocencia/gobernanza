@@ -14,7 +14,7 @@ Documentos que detallan como es la gobernanza de MetaDocencia
 
 * MetaDocentes, Ayudantes, Responsables de tareas (ej: redes sociales, sitio web, reportes, publiaciones, autores de cursos, contribuyentes en contenidos de cursos, prensa, autores de post y videos, representante ante instituciones, diertante sobre MetaDocencia, incripciones, mail de MetaDocencia).
 
-* Describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.
+* Describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.  Sería ideal reconocer áreas de trabajo con roles asignados a personas específicas, que puedan decir “soy encargado de XX rol en MetaDocencia”. Luego, se pueden usar badges como reconocimiento para personas que aportaron de forma menos formal.
 
 Ejemplo de poisbles partes para describir al Core-Team:
 - Poderes generales
@@ -47,6 +47,17 @@ Fuentes para este trabajo:
 * The Carpentries Governance: https://docs.carpentries.org/topic_folders/governance/index.html
 
 * Ejemplo de minutas de Carpentries: https://github.com/carpentries/executive-council-info/blob/master/minutes/2020/EC-minutes-2020-01-13.md
+
+* Ejemplo de como contribuir de The Turing Way con ejemplos de etiquetas para issues de GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+
+* Otro ejemplo de contribuciones de The Turing Way: https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md
+
+* Modelos de comunidad que pueden ayudar a pensar la estructura de MetaDocencia https://twitter.com/TheCSCCE/status/1301092834112679937
+
+* Gobernanza modelo Mozilla https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md
+
+
+
 
 
 
