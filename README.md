@@ -4,7 +4,7 @@ Documentos que detallan como es la gobernanza de MetaDocencia
 
 - Partes de este documentos:
 
-- Misión y visión
+- [Misión y visión](https://github.com/MetaDocencia/docs/blob/master/MISION_VISION.md)
 - [Codigo de Conducta](https://github.com/MetaDocencia/docs/blob/master/C%C3%93DIGO-DE-CONDUCTA.md)
 - [Licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md)
 - [Reglas para contribuir](https://github.com/MetaDocencia/docs/blob/master/CONTRIBUIR.md).
