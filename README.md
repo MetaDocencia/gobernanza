@@ -16,11 +16,12 @@ Documentos que detallan como es la gobernanza de MetaDocencia
 
 * Describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.
 
-* Como dejas de ser colaborador/responsable
+Otras cosas a incluir en algunos de los otros puntos: 
+   * Como dejas de ser colaborador/responsable
 
-* Como se toman las decisiones y como pasas a ser parte del Core Team, que hoy es quien toma las decisiones.
+   * Como se toman las decisiones y como pasas a ser parte del Core Team, que hoy es quien toma las decisiones.
 
-* Como manejamos las autorias de los materiales.
+   * Como manejamos las autorias de los materiales.
 
 Fuentes para este trabajo:
 
@@ -32,7 +33,7 @@ Fuentes para este trabajo:
 
 * Gobernanza de nodeJs: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
 
-* Community handboos de The Turing Way: https://the-turing-way.netlify.app/community-handbook/community-handbook.html
+* Community handbook de The Turing Way: https://the-turing-way.netlify.app/community-handbook/community-handbook.html
 
 * The Carpentries Governance: https://docs.carpentries.org/topic_folders/governance/index.html
 
