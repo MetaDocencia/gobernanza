@@ -32,6 +32,10 @@ Fuentes para este trabajo:
 
 * Gobernanza de nodeJs: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
 
+* Community handboos de The Turing Way: https://the-turing-way.netlify.app/community-handbook/community-handbook.html
+
+* The Carpentries Governance: https://docs.carpentries.org/topic_folders/governance/index.html
+
 
 
 
