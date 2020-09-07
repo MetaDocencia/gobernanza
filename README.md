@@ -16,6 +16,15 @@ Documentos que detallan como es la gobernanza de MetaDocencia
 
 * Describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.
 
+Ejemplo de poisbles partes para describir al Core-Team:
+- Poderes generales
+- Responsabilidades de los miembros del Core Team
+- Cantidad de miembros, permanencia, requisitos y calificaciones
+- [Reuniones ordinarias y quórum](https://github.com/MetaDocencia/core-team-minutas)
+- Compensación
+- Confidencialidad
+- Remover un integrante
+
 Otras cosas a incluir en algunos de los otros puntos: 
    * Como dejas de ser colaborador/responsable
 
