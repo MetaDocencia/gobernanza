@@ -56,6 +56,8 @@ Fuentes para este trabajo:
 
 * Gobernanza modelo Mozilla https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md
 
+* [Presentación](https://www.youtube.com/watch?v=HQjRnWVmL28) sobre liderazgo y gobernanza de Carol Willing para JupyterCon2020. Tambien estas [notas](https://github.com/jupytercon/2020-willingc/tree/master/notebooks) de Carol
+
 
 
 
