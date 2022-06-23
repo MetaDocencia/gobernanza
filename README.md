@@ -1,44 +1,35 @@
 # Gobernanza
 
-Documentos que detallan como es la gobernanza de MetaDocencia
+Documentos que detallan parte de la gobernanza de MetaDocencia
 
-- Partes de este documentos:
+[Misión y visión](https://github.com/MetaDocencia/docs/blob/master/MISION_VISION.md)
 
-- [Misión y visión](https://github.com/MetaDocencia/docs/blob/master/MISION_VISION.md)
-- [Codigo de Conducta](https://github.com/MetaDocencia/docs/blob/master/C%C3%93DIGO-DE-CONDUCTA.md)
-- [Licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md)
-- [Reglas para contribuir](https://github.com/MetaDocencia/docs/blob/master/CONTRIBUIR.md).
-- Estructura actual/roles: 
+[Codigo de Conducta](https://github.com/MetaDocencia/docs/blob/master/C%C3%93DIGO-DE-CONDUCTA.md)
 
-* Core Team, Advisory Team, Colaboradores
+[Licencia](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md)
 
-* MetaDocentes, Ayudantes, Responsables de tareas (ej: redes sociales, sitio web, reportes, publiaciones, autores de cursos, contribuyentes en contenidos de cursos, prensa, autores de post y videos, representante ante instituciones, diertante sobre MetaDocencia, incripciones, mail de MetaDocencia).
+[Reglas para contribuir](https://github.com/MetaDocencia/docs/blob/master/CONTRIBUIR.md).
 
-* Describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.  Sería ideal reconocer áreas de trabajo con roles asignados a personas específicas, que puedan decir “soy encargado de XX rol en MetaDocencia”. Luego, se pueden usar badges como reconocimiento para personas que aportaron de forma menos formal.
+Estructura actual/roles: 
 
-Ejemplo de poisbles partes para describir al Core-Team:
-- Poderes generales
-- Responsabilidades de los miembros del Core Team
-- Cantidad de miembros, permanencia, requisitos y calificaciones
-- [Reuniones ordinarias y quórum](https://github.com/MetaDocencia/core-team-minutas)
-- Compensación
-- Confidencialidad
-- Remover un integrante
+* Será necesario describir los roles, para tener claro que tipo de actividad se espera de cada persona y para que la persona pueda tener un documento que detalle cuales fueron sus tareas mientras estuvo cumpliendo ese rol en MetaDocencia.  Sería ideal reconocer áreas de trabajo con roles asignados a personas específicas, que puedan decir “soy encargado de XX rol en MetaDocencia”. Luego, se pueden usar badges como reconocimiento para personas que aportaron de forma menos formal.
+
+* Ejemplos de posibles partes para describir a Consejo Asesor: poderes generales, responsabilidades de quienes integran el Consejo Asesor, cantidad de integrantes, permanencia, requisitos y calificaciones, reuniones ordinarias y extraordinarias, quórum, minutas, compensación, política de conflicto de interés, confidencialidad, remover un integrante
 
 Otras cosas a incluir en algunos de los otros puntos: 
    * Como dejas de ser colaborador/responsable
 
-   * Como se toman las decisiones y como pasas a ser parte del Core Team, que hoy es quien toma las decisiones.
+   * Como se toman las decisiones y como se puede ser parte del Consejo Asesor
 
-   * Como manejamos las autorias de los materiales.
+   * Como manejamos las autorias de los materiales
 
 Fuentes para este trabajo:
 
 * Muy buena esta serie de 3 post con ejemplos concretos de formas de tomar decisiones y los problemas que traen algunas maneras: http://aturon.github.io/tech/2018/05/25/listening-part-1/
 
-* Post de Greg sobre una propuesta de Gobernanza: https://third-bit.com/2020/08/31/governance.html
+* Post de Greg Wilson sobre una propuesta de Gobernanza: https://third-bit.com/2020/08/31/governance.html
 
-* Capitulo de comunidades del libro de Greg: https://teachtogether.tech/es/index.html#s:community
+* Capítulo de comunidades del libro de Greg Wilson: https://teachtogether.tech/es/index.html#s:community
 
 * Gobernanza de nodeJs: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
 
